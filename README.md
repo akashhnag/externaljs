@@ -48,6 +48,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 5) as the JS file declares the jQuery file in the "src/assets" folder
 6) export the function by all means
 7) import it in the angular project as follows:
- e,g, import * as abc from /../../assets/jquery"
+ e,g, import * as abc from ../../assets/jquery"
 8) call it using the varibale abc like abc.function_name() 
  
